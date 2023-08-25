@@ -187,4 +187,14 @@
      .active {
          background-color: #112233;
      }
+
+
+ }
+
+ @media screen and (max-width: 655px) {
+
+     .menu p,
+     h2 {
+         display: none;
+     }
  }
